@@ -1,0 +1,16 @@
+# Local planning artifacts
+plan_render/
+build_plan.py
+*.docx
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+.aws/
+.DS_Store
+Thumbs.db
+*.log
